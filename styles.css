@@ -25,3 +25,8 @@ header img{
 header nav{
     width: 40%;
 }
+
+main{
+    background-color: red;
+    height:800px ;
+}
